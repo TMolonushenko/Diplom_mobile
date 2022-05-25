@@ -1,4 +1,3 @@
-# Diplom_mobile
 ## Проект по автоматизации UI тестирования мобильного приложения Wikipedia
 <p align="center"></p><a href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">
 
@@ -24,10 +23,7 @@
 ----
 
 ![Allure Report](images/allure1.png)
-### Список тестов c описанием тестов
-![Allure Report](images/Allure_Report3.png)
-
-### Графики
+### Список тестов c описанием 
 ![Allure Report](images/allure2.png)
 
 
