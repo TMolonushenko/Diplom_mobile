@@ -2,7 +2,7 @@
 ## Проект по автоматизации UI тестирования мобильного приложения Wikipedia
 <p align="center"></p><a href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">
 
----
+
 
 ### Технологии используемые в проекте
 ![Intelij_IDEA](images/icons/Intelij_IDEA.png)![Java](images/icons/Java.png)![Selenide](images/icons/Selenide.png)![Browserstack](images/icons/Browserstack.svg)![Gradle](images/icons/Gradle.png)![JUnit5](images/icons/JUnit5.png)![Allure Report](images/icons/Allure_Report.png)![Jenkins](images/icons/Jenkins.png)
