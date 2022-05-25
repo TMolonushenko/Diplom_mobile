@@ -27,7 +27,7 @@
 ![Allure Report](images/allure2.png)
 
 
-### <img width="4%" title="Allure Report" src="images/icons/AllureTestOps.png"> Проект интегрирован с Allure TestOps
+### <img width="4%" title="Allure TestOps" src="images/icons/AllureTestOps.png"> Проект интегрирован с Allure TestOps
 
 ---
 
