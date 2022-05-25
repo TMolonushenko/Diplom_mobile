@@ -19,7 +19,7 @@
 ![Jenkins](images/jenkinsSborka.png)
 
 
-## <img width="4%" title="Allure Report" src="images/icons/Allure_Report.png"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/011_tmolonushenko_mobileT/allure/#)
+## <img width="4%" title="Allure Report" src="images/icons/Allure_Report.png"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/011_tmolonushenko_mobileT/allure/)
 
 ----
 
