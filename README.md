@@ -31,6 +31,10 @@
 
 ---
 
+
+https://user-images.githubusercontent.com/99205386/170296667-6c29c2f5-7e6e-4413-8746-147a4079e23f.mp4
+
+
 ## Тест-кейсы с историей запусков
 ![Allure TestOps](images/testOps2.png)
 
