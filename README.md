@@ -31,10 +31,6 @@
 
 ---
 
-
-https://user-images.githubusercontent.com/99205386/170296667-6c29c2f5-7e6e-4413-8746-147a4079e23f.mp4
-
-
 ## Тест-кейсы с историей запусков
 ![Allure TestOps](images/testOps2.png)
 
@@ -42,8 +38,8 @@ https://user-images.githubusercontent.com/99205386/170296667-6c29c2f5-7e6e-4413-
 ![Allure TestOps](images/testOps.png)
 
 ---
-## <img width="4%" title="Video" src="images/icons/Selenoid.png"> Видео-отчет о прохождении теста из Selenoid:
-![videoTest](https://user-images.githubusercontent.com/99205386/170245175-de452182-dfe8-4a99-93b0-7d8556559c6a.mp4)
+## <img width="4%" title="Video" src="images/icons/Selenoid.png"> Видео-отчет о прохождении теста:
+![videoTest](https://user-images.githubusercontent.com/99205386/170296667-6c29c2f5-7e6e-4413-8746-147a4079e23f.mp4)
 
 
 
