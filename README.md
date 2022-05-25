@@ -1,5 +1,5 @@
 # Diplom_mobile
-# # Проект по автоматизации UI тестирования мобильного приложения Wikipedia
+## Проект по автоматизации UI тестирования мобильного приложения Wikipedia
 <p align="center"></p><a href="https://github.com/wikimedia/apps-android-wikipedia/releases/tag/latest">
 -----
 
