@@ -21,23 +21,19 @@ public class TestBase {
 
         addListener("AllureSelenide", new AllureSelenide());
         Configuration.browser = BrowserstackMobileDriver.class.getName();
-        //  Configuration.startMaximized = false;
         Configuration.browserSize = null;
     }
 
     @BeforeEach
     public void startDriver() {
-
         open();
     }
 
     @AfterEach
     public void afterEach() {
         String sessionId = getSessionId();
-
         Attach.screenshotAs("Last screenshot");
         Attach.pageSource();
-
         closeWebDriver();
         Attach.video(sessionId);
     }
