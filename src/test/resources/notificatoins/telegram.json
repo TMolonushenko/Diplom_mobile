@@ -1,3 +1,4 @@
+/*
 {
   "base": {
     "project": "some project",
@@ -15,3 +16,27 @@
     "replyTo": ""
   }
 }
+
+*/
+
+{
+  "base": {
+    "project": "${JOB_BASE_NAME}",
+    "environment": "some env",
+    "comment": "some comment",
+    "reportLink": "${BUILD_URL}",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "build/allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5358408649:AAFTz0nqWOgK2HKftSlhPQGeTHEcaOAhu8k",
+    "chat": "-1001735436139",
+    "replyTo": ""
+  }
+}
+/*
+java "-DconfigFile=src/test/resources/notificatoins/telegram.json" -jar src/test/resources/notificatoins/allure-notifications-4.1.jar
+
+*/

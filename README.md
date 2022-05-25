@@ -13,22 +13,22 @@
 - [x] Поиск статей в приложении
 
 
-## <img width="4%" title="Jenkins" src="images/icons/Jenkins.png"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/011_tmolonushenko_reqresin/)
+## <img width="4%" title="Jenkins" src="images/icons/Jenkins.png"> Запуск тестов в [Jenkins](https://jenkins.autotests.cloud/job/011_tmolonushenko_mobileT/)
 
 ---
-![Jenkins](images/Allure_Report_reqresin1.png)
+![Jenkins](images/jenkinsSborka.png)
 
 
-## <img width="4%" title="Allure Report" src="images/icons/Allure_Report.png"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/011_tmolonushenko_sotoFoto/allure/)
+## <img width="4%" title="Allure Report" src="images/icons/Allure_Report.png"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/011_tmolonushenko_mobileT/allure/#)
 
 ----
 
-![Allure Report](images/Allure_Report2.png)
+![Allure Report](images/allure1.png)
 ### Список тестов c описанием тестов
 ![Allure Report](images/Allure_Report3.png)
 
 ### Графики
-![Allure Report](images/Allure_Report4.png)
+![Allure Report](images/allure2.png)
 
 
 ### <img width="4%" title="Allure Report" src="images/icons/AllureTestOps.png"> Проект интегрирован с Allure TestOps
@@ -36,18 +36,15 @@
 ---
 
 ## Тест-кейсы с историей запусков
-![Allure TestOps](images/AllureTestOps2.png)
+![Allure TestOps](images/testOps2.png)
 
 ## Дашборд
-![Allure TestOps](images/AllureTestOps3.png)
+![Allure TestOps](images/testOps.png)
 
 ---
-## <img width="4%" title="Allure Report" src="images/icons/Telegram.png"> Уведомление в Telegram
-![Telegram Bot](images/telegram2.png)
+## <img width="4%" title="Video" src="images/icons/Selenoid.png"> Видео-отчет о прохождении теста из Selenoid:
+![videoTest](https://user-images.githubusercontent.com/99205386/170245175-de452182-dfe8-4a99-93b0-7d8556559c6a.mp4)
 
 
----
-
-https://user-images.githubusercontent.com/99205386/170245175-de452182-dfe8-4a99-93b0-7d8556559c6a.mp4
 
 
